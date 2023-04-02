@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/muratzamir.github.io/static/css/main.9436d1c9.css",
+    "main.js": "/muratzamir.github.io/static/js/main.fbb6f318.js",
+    "static/media/me.png": "/muratzamir.github.io/static/media/me.e6c97e7dca8b633ae14f.png",
+    "static/media/ethicalhacking.png": "/muratzamir.github.io/static/media/ethicalhacking.a1594fb577190fb2664b.png",
+    "static/media/pentest.png": "/muratzamir.github.io/static/media/pentest.bbf882b1106527de1421.png",
+    "static/media/ccna.png": "/muratzamir.github.io/static/media/ccna.04338f096194e093952d.png",
+    "static/media/network.png": "/muratzamir.github.io/static/media/network.037ddf83f0c3c22dfd78.png",
+    "static/media/keylogger.png": "/muratzamir.github.io/static/media/keylogger.42a6630f9876b4f2f078.png",
+    "static/media/aws.png": "/muratzamir.github.io/static/media/aws.10ba14b00bcd24fb054a.png",
+    "static/media/devops.png": "/muratzamir.github.io/static/media/devops.a0a322c2600ac73ebd20.png",
+    "static/media/killchain.png": "/muratzamir.github.io/static/media/killchain.23ec7dab44c1e43d30e4.png",
+    "static/media/website-cv.pdf": "/muratzamir.github.io/static/media/website-cv.35ae4f8c2541aed714a5.pdf",
+    "static/media/img.png": "/muratzamir.github.io/static/media/img.6ebe72e4a6c67dc5db94.png",
+    "static/media/activedirectory.png": "/muratzamir.github.io/static/media/activedirectory.e1e7e716fc8d344afbc9.png",
+    "index.html": "/muratzamir.github.io/index.html",
+    "main.9436d1c9.css.map": "/muratzamir.github.io/static/css/main.9436d1c9.css.map",
+    "main.fbb6f318.js.map": "/muratzamir.github.io/static/js/main.fbb6f318.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9436d1c9.css",
+    "static/js/main.fbb6f318.js"
+  ]
+}
