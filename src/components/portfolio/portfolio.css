@@ -1,0 +1,85 @@
+.portfolio__container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2.5rem;
+}
+
+.portfolio__item {
+    background: rgb(1, 42, 99);
+    padding: 1.3rem;
+    border-radius: 2rem;
+    border: 1px solid transparent;
+    transition: var(--transition);
+}
+
+.portfolio__item:hover {
+    background: rgb(15, 53, 110);
+    border-color: var(--color-primary-variant);
+}
+
+.portfolio__item-item {
+    border-radius: 1.5rem;
+    overflow: hidden;
+}
+
+.portfolio__item h3 {
+    margin: 1.2rem 0 2rem;
+}
+
+.portfolio__item-cta {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
+
+.service__list {
+    padding: 2rem; 
+}
+
+.service__list li {
+    display: flex;
+    font-size: 1.2rem;
+    gap: 1rem;
+    margin-bottom: 0.8rem;
+}
+
+.service__list_icon {
+    color: white;
+    margin-top: 2px;
+    font-size: auto;
+
+}
+
+.service__list p {
+    font-size: 1rem;
+}
+
+.fuzuli {
+    color: transparent;
+}
+
+.images {
+    border-radius: 1rem;
+}
+
+/* =========================== MEDIUM DEVICES ====================== */
+
+@media screen and (max-width: 1024px) {
+    .portfolio__container {
+        grid-template-columns: 1fr 1fr;
+        gap: 1.2rem;
+    }
+
+}
+
+
+
+/* =========================== SMALL DEVICES ====================== */
+
+@media screen and (max-width: 600px) {
+    .portfolio__container {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+} 
+
