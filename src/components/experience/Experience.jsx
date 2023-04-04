@@ -9,10 +9,9 @@ import {DiCss3} from 'react-icons/di'
 import {FaReact, FaNetworkWired} from 'react-icons/fa'
 import {GrMysql} from 'react-icons/gr'
 import {AiFillHtml5} from 'react-icons/ai'
-import {TbTestPipe} from 'react-icons/tb'
 import {HiSearch} from 'react-icons/hi'
 import {IoGitNetworkOutline} from 'react-icons/io5'
-import {TbHexagonLetterB, TbSquareLetterM} from 'react-icons/tb'
+import {TbHexagonLetterB, TbSquareLetterM, TbTestPipe} from 'react-icons/tb'
 
 
 
