@@ -51,7 +51,7 @@ const About = () => {
           
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I pursued a degree in cybersecurity at Purdue University and proactively attended numerous security conferences to expand my 
           knowledge and network. My hunger for knowledge never ceases, and I am always seeking opportunities to develop 
-          a hacker mindset through relentless dedication and hard work
+          a hacker mindset through relentless dedication and hard work.
           </p>
           
           
